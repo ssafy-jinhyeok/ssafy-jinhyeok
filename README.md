@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/121843068/212247297-f391ed67-caf1-4f8b-b0a5-f8a749c65a23.png)
+![image](jjang.png)
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyeon-JinHyeok&fontSize=90)
